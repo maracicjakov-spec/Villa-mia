@@ -1,0 +1,4 @@
+_src/
+node_modules/
+.claude/
+.playwright-mcp/

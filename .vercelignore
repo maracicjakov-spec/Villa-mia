@@ -1,0 +1,4 @@
+_src/
+.claude/
+.playwright-mcp/
+README.md
